@@ -1,5 +1,5 @@
 $(document).ready(function(){
     $('div').mouseenter(function(){
-        $('div').fadeTo('fast', 1);
+        $('div').fadeTo('slow', 0);
     });
 });
